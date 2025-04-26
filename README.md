@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # these are the steps to run boooking module
 
 **step 1 :**
@@ -34,3 +35,6 @@ JSON
 ### and can be viewed in postman after creating admin with json to first create customer from customer management,
 ### and then create supplier from supplier management and then add cylinder from cylinder management and 
 ### then login as a customer with customerId and Password which sent on email.
+=======
+# FuelAgencyOperationSuite
+>>>>>>> 7b18fb656733ac957ddc55ea48ce71413a5a6496
