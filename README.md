@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# these are the steps to run boooking module
+# these are the steps to run booking module
 
 **step 1 :**
 Install necesaary packages in both Frontend and Backend. Run this 
